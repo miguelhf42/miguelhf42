@@ -42,7 +42,7 @@ I am ready to take the leap into the workforce, bringing my skills, energy, and 
 
 ###
 
-<h3 align="left"> Connect with me</h3>
+<h3 align="left">##🌐 Connect with me</h3>
 
 ###
 

@@ -1,6 +1,6 @@
-## Hi there! I'm Miguel 👋
+<div align="center">
 
----
+## Hi there! I'm Miguel 👋
 
 I hold a degree in **Economics** from the Universidad de Valencia (UV) and a specialization in data analysis through a **Master's in Data Analytics for Business** at **EDEM** (School of Business, Management, and Leadership), where I discovered my true passion. 🚀
 
@@ -9,6 +9,8 @@ I am an active and organized person who never stops striving and working towards
 My professional experience includes several months in a position within the banking sector, where I had the opportunity to gain first-hand knowledge of financial operations management, as well as develop skills in direct customer interaction.
 
 I am ready to take the leap into the workforce, bringing my skills, energy, and ability to foster a positive work environment. I am excited to continue growing in a setting where I can contribute value and keep learning from those around me.
+
+</div>
 
 ###
 

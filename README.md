@@ -6,7 +6,9 @@ I hold a degree in **Economics** from the Universidad de Valencia (UV) and a spe
 
 My professional experience includes several months in a position within the banking sector, where I had the opportunity to gain first-hand knowledge of financial operations management, as well as develop skills in direct customer interaction.
 
-I am an active and organized person who never stops striving and working towards my goals until I achieve them. I enjoy tackling daily challenges, and I consider continuous growth and learning essential, both in the professional and personal realms. I am motivated by working in teams, learning from others, and contributing innovative solutions to every project. Additionally, I am passionate about technology and data analysis as tools to create a positive impact. I am open to sharing ideas and exploring new perspectives!
+I am a proactive and organized person with a constant drive to achieve my goals. I enjoy tackling challenges and believe that continuous growth and learning are essential in both my professional and personal life. Collaboration inspires me—I enjoy working in teams, learning from those around me, and contributing innovative solutions to every project. My passion lies in leveraging technology and data analysis to create meaningful impact.
+
+I am always open to sharing ideas, exploring new perspectives, or collaborating on exciting projects. Feel free to reach out to me!
 
 </div>
 
